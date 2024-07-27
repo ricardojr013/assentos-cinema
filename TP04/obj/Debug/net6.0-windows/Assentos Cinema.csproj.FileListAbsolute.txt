@@ -1,0 +1,16 @@
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\bin\Debug\net6.0-windows\Assentos Cinema.exe
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\bin\Debug\net6.0-windows\Assentos Cinema.deps.json
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\bin\Debug\net6.0-windows\Assentos Cinema.runtimeconfig.json
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\bin\Debug\net6.0-windows\Assentos Cinema.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\bin\Debug\net6.0-windows\Assentos Cinema.pdb
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\TP04.Form1.resources
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.csproj.GenerateResource.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.AssemblyInfoInputs.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.AssemblyInfo.cs
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.csproj.CoreCompileInputs.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\refint\Assentos Cinema.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.pdb
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\Assentos Cinema.genruntimeconfig.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\Assentos Cinema\TP04\obj\Debug\net6.0-windows\ref\Assentos Cinema.dll
